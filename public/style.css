@@ -1,0 +1,17 @@
+.section1{
+    text-align: center;
+    background-color: aqua;
+}
+.section1 img{
+   height: 450px;
+   width: 750px;
+   
+}
+.section1 h2{
+    font-size: xx-large;
+    color: green;
+}
+.section1 p{
+    font-size:medium;
+    color: gray;
+}
